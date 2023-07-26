@@ -4,6 +4,7 @@ Aplicação Vite React para Gerar Senha Aleatória
 Esta é uma aplicação básica desenvolvida com Vite e React que gera senhas aleatórias de acordo com as preferências do usuário.
 
 Como utilizar a aplicação
+
 1.Certifique-se de ter o Node.js instalado em seu sistema. Caso ainda não tenha, faça o download e a instalação pelo site oficial do Node.js (https://nodejs.org).
 
 2.Clone este repositório em sua máquina local:
