@@ -2,7 +2,7 @@ import { useState } from "react";
 
 function App() {
   const [password, setPassword] = useState("");
-  const [passwordSize, setpasswordSize] = useState("");
+  const [passwordSize, setpasswordSize] = useState(12);
   const [copyText, setCopyText] = useState("Copiar");
 
   const handleChange = (event) => {
